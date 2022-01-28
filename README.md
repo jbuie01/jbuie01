@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jbuie01
 - 👀 I’m interested in learning different coding languages.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Any help and advice is most greatly welcomed. 
 - 📫 How to reach me jmsbuie730@gmail.com
 
 <!---
